@@ -1,5 +1,0 @@
-gamma(t) = alpha + t*i
-and the figures are (the somme en million en fonction de i)
-
-figure 1 : fonction f est polinomial 
-figure 2 : fonction f est exponentiel 
